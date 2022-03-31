@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/.idea/
+/model_data/zhuiyi_ori_data/
